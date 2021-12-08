@@ -5,37 +5,37 @@
     "sellerData": [
       {
         "id": 1,
-        "img": "/img/avatar_1.jpg",
+        "img": "/img/auction_1.jpg",
         "seller": "@Richard",
         "price": "1.5 CSPR"
       },
       {
         "id": 2,
-        "img": "/img/avatar_2.jpg",
+        "img": "/img/auction_2.jpg",
         "seller": "@JohnDeo",
         "price": "2.3 CSPR"
       },
       {
         "id": 3,
-        "img": "/img/avatar_3.jpg",
+        "img": "/img/auction_3.jpg",
         "seller": "@Junaid",
         "price": "2.5 CSPR"
       },
       {
         "id": 4,
-        "img": "/img/avatar_4.jpg",
+        "img": "/img/auction_4.jpg",
         "seller": "@Yasmin",
         "price": "1.9 CSPR"
       },
       {
         "id": 5,
-        "img": "/img/avatar_5.jpg",
+        "img": "/img/auction_5.jpg",
         "seller": "@ArhamH",
         "price": "3.2 CSPR"
       },
       {
         "id": 6,
-        "img": "/img/avatar_6.jpg",
+        "img": "/img/auction_6.jpg",
         "seller": "@Sara",
         "price": "4.7 CSPR"
       }
@@ -48,57 +48,57 @@
     "collectionData": [
       {
         "id": 1,
-        "img": "/img/author_1.jpg",
-        "avatar": "/img/avatar_1.jpg",
+        "img": "/covers/cover_1.jpg",
+        "avatar": "/img/auction_1.jpg",
         "title": "Virtual Worlds",
         "content": "ERC-729"
       },
       {
         "id": 2,
-        "img": "/img/author_2.jpg",
-        "avatar": "/img/avatar_2.jpg",
+        "img": "/covers/cover_2.jpg",
+        "avatar": "/img/auction_2.jpg",
         "title": "Digital Arts",
         "content": "ERC-522"
       },
       {
         "id": 3,
-        "img": "/img/author_3.jpg",
-        "avatar": "/img/avatar_3.jpg",
+        "img": "/covers/cover_3.jpg",
+        "avatar": "/img/auction_3.jpg",
         "title": "Sports",
         "content": "ERC-495"
       },
       {
         "id": 4,
-        "img": "/img/author_4.jpg",
-        "avatar": "/img/avatar_4.jpg",
+        "img": "/covers/cover_4.jpg",
+        "avatar": "/img/auction_4.jpg",
         "title": "Photography",
         "content": "ERC-873"
       },
       {
         "id": 5,
-        "img": "/img/author_5.jpg",
-        "avatar": "/img/avatar_5.jpg",
+        "img": "/covers/cover_5.jpg",
+        "avatar": "/img/auction_5.jpg",
         "title": "Trading Cards",
         "content": "ERC-397"
       },
       {
         "id": 6,
-        "img": "/img/author_6.jpg",
-        "avatar": "/img/avatar_6.jpg",
+        "img": "/covers/cover_6.jpg",
+        "avatar": "/img/auction_6.jpg",
         "title": "Walking On Air",
         "content": "ERC-403"
       },
       {
         "id": 7,
-        "img": "/img/author_7.jpg",
-        "avatar": "/img/avatar_7.jpg",
+        "img": "/covers/cover_7.jpg",
+        "avatar": "/img/auction_7.jpg",
         "title": "Domain Names",
         "content": "ERC-687"
       },
       {
         "id": 8,
-        "img": "/img/author_8.jpg",
-        "avatar": "/img/avatar_8.jpg",
+        "img": "/covers/cover_8.jpg",
+        "avatar": "/img/auction_8.jpg",
         "title": "Collectibles",
         "content": "ERC-972"
       }
