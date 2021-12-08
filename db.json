@@ -104,36 +104,6 @@
       }
     ]
   },
-  "work": {
-    "preHeading": "How It Works",
-    "heading": "Create and sell your NFTs",
-    "workData": [
-      {
-        "id": 1,
-        "icon": "icons icon-wallet text-effect",
-        "title": "Set up your wallet",
-        "text": "Once you’ve set up your wallet of choice, connect it to OpenSea by clicking the NFT Marketplace in the top right corner. Learn about the wallets we support."
-      },
-      {
-        "id": 2,
-        "icon": "icons icon-grid text-effect",
-        "title": "Create your collection",
-        "text": "Click Create and set up your collection. Add social links, a description, profile & banner images, and set a secondary sales fee."
-      },
-      {
-        "id": 3,
-        "icon": "icons icon-drawer text-effect",
-        "title": "Add your NFTs",
-        "text": "Upload your work (image, video, audio, or 3D art), add a title and description, and customize your NFTs with properties, stats, and unlockable content."
-      },
-      {
-        "id": 4,
-        "icon": "icons icon-bag text-effect",
-        "title": "List them for sale",
-        "text": "Choose between auctions, fixed-price listings, and declining-price listings. You choose how you want to sell your NFTs!"
-      }
-    ]
-  },
   "explore": {
     "preHeading": "Exclusive Assets",
     "heading": "Explore",
@@ -406,99 +376,6 @@
       {
         "id": 8,
         "title": "Followings"
-      }
-    ]
-  },
-  "authors": {
-    "preHeading": "Authors",
-    "heading": "Our Creators",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-    "authorData": [
-      {
-        "id": 1,
-        "img": "/img/author_1.jpg",
-        "avatar": "/img/avatar_1.jpg",
-        "author": "Junaid Hasan",
-        "btnText": "Follow"
-      },
-      {
-        "id": 2,
-        "img": "/img/author_2.jpg",
-        "avatar": "/img/avatar_2.jpg",
-        "author": "Arham",
-        "btnText": "Follow"
-      },
-      {
-        "id": 3,
-        "img": "/img/author_3.jpg",
-        "avatar": "/img/avatar_3.jpg",
-        "author": "Yasmin",
-        "btnText": "Follow"
-      },
-      {
-        "id": 4,
-        "img": "/img/author_4.jpg",
-        "avatar": "/img/avatar_4.jpg",
-        "author": "William",
-        "btnText": "Follow"
-      },
-      {
-        "id": 5,
-        "img": "/img/author_5.jpg",
-        "avatar": "/img/avatar_5.jpg",
-        "author": "Johnson",
-        "btnText": "Follow"
-      },
-      {
-        "id": 6,
-        "img": "/img/author_6.jpg",
-        "avatar": "/img/avatar_6.jpg",
-        "author": "Sara Scotch",
-        "btnText": "Follow"
-      },
-      {
-        "id": 7,
-        "img": "/img/author_7.jpg",
-        "avatar": "/img/avatar_7.jpg",
-        "author": "John Deo",
-        "btnText": "Follow"
-      },
-      {
-        "id": 8,
-        "img": "/img/author_8.jpg",
-        "avatar": "/img/avatar_8.jpg",
-        "author": "Artnox",
-        "btnText": "Follow"
-      }
-    ]
-  },
-  "author": {
-    "img": "/img/auction_2.jpg",
-    "authorImg": "/img/avatar_8.jpg",
-    "author": "Artnox",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "authorId": "ZqpthncaYTsd0579hasfu00st",
-    "btnText": "Follow",
-    "socialData": [
-      {
-        "id": 1,
-        "link": "facebook",
-        "icon": "fab fa-facebook-f"
-      },
-      {
-        "id": 2,
-        "link": "twitter",
-        "icon": "fab fa-twitter"
-      },
-      {
-        "id": 3,
-        "link": "google-plus",
-        "icon": "fab fa-google-plus-g"
-      },
-      {
-        "id": 4,
-        "link": "vine",
-        "icon": "fab fa-vine"
       }
     ]
   }
