@@ -219,6 +219,69 @@
       }
     ]
   },
+  "authors": {
+    "preHeading": "Authors",
+    "heading": "Our Creators",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "authorData": [
+      {
+        "id": 1,
+        "img": "/covers/cover_1.jpg",
+        "avatar": "/img/auction_1.jpg",
+        "author": "Rodney Pete",
+        "btnText": "Follow"
+      },
+      {
+        "id": 2,
+        "img": "/covers/cover_2.jpg",
+        "avatar": "/img/auction_2.jpg",
+        "author": "Tim Couch",
+        "btnText": "Follow"
+      },
+      {
+        "id": 3,
+        "img": "/covers/cover_3.jpg",
+        "avatar": "/img/auction_3.jpg",
+        "author": "Kenyatta Wright",
+        "btnText": "Follow"
+      },
+      {
+        "id": 4,
+        "img": "/covers/cover_4.jpg",
+        "avatar": "/img/auction_4.jpg",
+        "author": "Eric Davis",
+        "btnText": "Follow"
+      },
+      {
+        "id": 5,
+        "img": "/covers/cover_5.jpg",
+        "avatar": "/img/auction_5.jpg",
+        "author": "Don Carey Ill",
+        "btnText": "Follow"
+      },
+      {
+        "id": 6,
+        "img": "/covers/cover_6.jpg",
+        "avatar": "/img/auction_6.jpg",
+        "author": "Donnell Thompson",
+        "btnText": "Follow"
+      },
+      {
+        "id": 7,
+        "img": "/covers/cover_7.jpg",
+        "avatar": "/img/auction_7.jpg",
+        "author": "Dick Anderson",
+        "btnText": "Follow"
+      },
+      {
+        "id": 8,
+        "img": "/covers/cover_8.jpg",
+        "avatar": "/img/auction_8.jpg",
+        "author": "Dennis Brown",
+        "btnText": "Follow"
+      }
+    ]
+  },
   "activity": {
     "preHeading": "Creative",
     "heading": "Activity",
