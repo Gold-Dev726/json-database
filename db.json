@@ -6,7 +6,7 @@
       {
         "id": 1,
         "img": "/img/auction_1.jpg",
-        "seller": "@Richard",
+        "seller": "@RodWoodson",
         "price": "1.5 CSPR"
       },
       {
@@ -50,56 +50,56 @@
         "id": 1,
         "img": "/covers/cover_1.jpg",
         "avatar": "/img/auction_1.jpg",
-        "title": "Virtual Worlds",
+        "title": "Rod Woodson",
         "content": "ERC-729"
       },
       {
         "id": 2,
         "img": "/covers/cover_2.jpg",
         "avatar": "/img/auction_2.jpg",
-        "title": "Digital Arts",
+        "title": "Tim Couch",
         "content": "ERC-522"
       },
       {
         "id": 3,
         "img": "/covers/cover_3.jpg",
         "avatar": "/img/auction_3.jpg",
-        "title": "Sports",
+        "title": "Kenyatta Wright",
         "content": "ERC-495"
       },
       {
         "id": 4,
         "img": "/covers/cover_4.jpg",
         "avatar": "/img/auction_4.jpg",
-        "title": "Photography",
+        "title": "Eric Davis",
         "content": "ERC-873"
       },
       {
         "id": 5,
         "img": "/covers/cover_5.jpg",
         "avatar": "/img/auction_5.jpg",
-        "title": "Trading Cards",
+        "title": "Don Carey Ill",
         "content": "ERC-397"
       },
       {
         "id": 6,
         "img": "/covers/cover_6.jpg",
         "avatar": "/img/auction_6.jpg",
-        "title": "Walking On Air",
+        "title": "Donnell Thompson",
         "content": "ERC-403"
       },
       {
         "id": 7,
         "img": "/covers/cover_7.jpg",
         "avatar": "/img/auction_7.jpg",
-        "title": "Domain Names",
+        "title": "Dick Anderson",
         "content": "ERC-687"
       },
       {
         "id": 8,
         "img": "/covers/cover_8.jpg",
         "avatar": "/img/auction_8.jpg",
-        "title": "Collectibles",
+        "title": "Dennis Brown",
         "content": "ERC-972"
       }
     ]
@@ -111,7 +111,7 @@
     "exploreData": [
       {
         "id": 1,
-        "img": "/img/auction_1.jpg",
+        "img": "/covers/cover_1.jpg",
         "title": "Rod Woodson",
         "owner": "Rod Woodson",
         "price": "1.5 CSPR",
@@ -120,7 +120,7 @@
       },
       {
         "id": 2,
-        "img": "/img/auction_2.jpg",
+        "img": "/covers/cover_2.jpg",
         "title": "Tim Couch",
         "owner": "Tim Couch",
         "price": "2.7 CSPR",
@@ -129,7 +129,7 @@
       },
       {
         "id": 3,
-        "img": "/img/auction_3.jpg",
+        "img": "/covers/cover_3.jpg",
         "title": "Kenyatta Wright",
         "owner": "Kenyatta Wright",
         "price": "2.3 CSPR",
@@ -138,7 +138,7 @@
       },
       {
         "id": 4,
-        "img": "/img/auction_4.jpg",
+        "img": "/covers/cover_4.jpg",
         "title": "Eric Davis",
         "owner": "Eric Davis",
         "price": "1.8 CSPR",
@@ -147,7 +147,7 @@
       },
       {
         "id": 5,
-        "img": "/img/auction_5.jpg",
+        "img": "/covers/cover_5.jpg",
         "title": "Don Carey Ill",
         "owner": "Don Carey Ill",
         "price": "1.7 CSPR",
@@ -156,7 +156,7 @@
       },
       {
         "id": 6,
-        "img": "/img/auction_6.jpg",
+        "img": "/covers/cover_6.jpg",
         "title": "Donnell Thompson",
         "owner": "Donnell Thompson",
         "price": "1.9 CSPR",
@@ -165,7 +165,7 @@
       },
       {
         "id": 7,
-        "img": "/img/auction_7.jpg",
+        "img": "/covers/cover_7.jpg",
         "title": "Dick Anderson",
         "owner": "Dick Anderson",
         "price": "3.2 CSPR",
@@ -174,7 +174,7 @@
       },
       {
         "id": 8,
-        "img": "/img/auction_8.jpg",
+        "img": "/covers/cover_8.jpg",
         "title": "Dennis Brown",
         "owner": "Dennis Brown",
         "price": "0.69 CSPR",
@@ -183,7 +183,7 @@
       },
       {
         "id": 9,
-        "img": "/img/auction_9.jpg",
+        "img": "/covers/cover_9.jpg",
         "title": "Danny Noonan",
         "owner": "Danny Noonan",
         "price": "0.69 CSPR",
@@ -192,7 +192,7 @@
       },
       {
         "id": 10,
-        "img": "/img/auction_10.jpg",
+        "img": "/covers/cover_10.jpg",
         "title": "Devin Wyman",
         "owner": "Devin Wyman",
         "price": "0.69 CSPR",
@@ -201,7 +201,7 @@
       },
       {
         "id": 11,
-        "img": "/img/auction_11.jpg",
+        "img": "/covers/cover_11.jpg",
         "title": "Curt Warner",
         "owner": "Curt Warner",
         "price": "0.69 CSPR",
@@ -210,7 +210,7 @@
       },
       {
         "id": 12,
-        "img": "/img/auction_12.jpg",
+        "img": "/covers/cover_12.jpg",
         "title": "Darrell Thompson",
         "owner": "Darrell Thompson",
         "price": "0.69 CSPR",
