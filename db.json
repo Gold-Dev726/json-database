@@ -112,8 +112,8 @@
       {
         "id": 1,
         "img": "/img/auction_1.jpg",
-        "title": "Rodney Pete",
-        "owner": "Rodney Pete",
+        "title": "Rod Woodson",
+        "owner": "Rod Woodson",
         "price": "1.5 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -228,7 +228,7 @@
         "id": 1,
         "img": "/covers/cover_1.jpg",
         "avatar": "/img/auction_1.jpg",
-        "author": "Rodney Pete",
+        "author": "Rod Woodson",
         "btnText": "Follow"
       },
       {
