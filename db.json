@@ -313,30 +313,6 @@
         "price": "12 CSPR",
         "time": "3 hours ago",
         "seller": "@yasmin"
-      },
-      {
-        "id": 4,
-        "img": "/img/auction_8.jpg",
-        "title": "Dennis Brown",
-        "price": "22 CSPR",
-        "time": "9 hours ago",
-        "seller": "@john"
-      },
-      {
-        "id": 5,
-        "img": "/img/auction_9.jpg",
-        "title": "Danny",
-        "price": "42 CSPR",
-        "time": "7 hours ago",
-        "seller": "@william"
-      },
-      {
-        "id": 6,
-        "img": "/img/auction_10.jpg",
-        "title": "Industrial",
-        "price": "36 CSPR",
-        "time": "10 hours ago",
-        "seller": "@sara"
       }
     ],
     "tabData_2": [
@@ -355,22 +331,6 @@
         "price": "12 CSPR",
         "time": "3 hours ago",
         "seller": "@yasmin"
-      },
-      {
-        "id": 3,
-        "img": "/img/auction_8.jpg",
-        "title": "Digital Arts",
-        "price": "22 CSPR",
-        "time": "9 hours ago",
-        "seller": "@john"
-      },
-      {
-        "id": 4,
-        "img": "/img/auction_9.jpg",
-        "title": "Photography",
-        "price": "69 CSPR",
-        "time": "12 hours ago",
-        "seller": "@junaid"
       }
     ],
     "tabData_3": [
@@ -389,56 +349,6 @@
         "price": "12 CSPR",
         "time": "3 hours ago",
         "seller": "@yasmin"
-      },
-      {
-        "id": 3,
-        "img": "/img/auction_3.jpg",
-        "title": "Photography",
-        "price": "22 CSPR",
-        "time": "9 hours ago",
-        "seller": "@john"
-      },
-      {
-        "id": 4,
-        "img": "/img/auction_4.jpg",
-        "title": "Virtual Worlds",
-        "price": "69 CSPR",
-        "time": "12 hours ago",
-        "seller": "@junaid"
-      }
-    ],
-    "filterData": [
-      {
-        "id": 1,
-        "title": "Listing"
-      },
-      {
-        "id": 2,
-        "title": "Likes"
-      },
-      {
-        "id": 3,
-        "title": "Purchase"
-      },
-      {
-        "id": 4,
-        "title": "Transfer"
-      },
-      {
-        "id": 5,
-        "title": "Sales"
-      },
-      {
-        "id": 6,
-        "title": "Bids"
-      },
-      {
-        "id": 7,
-        "title": "Burns"
-      },
-      {
-        "id": 8,
-        "title": "Followings"
       }
     ]
   }
