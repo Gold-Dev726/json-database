@@ -113,7 +113,7 @@
         "id": 1,
         "img": "/img/auction_1.jpg",
         "title": "Rodney Pete",
-        "owner": "Richard",
+        "owner": "Rodney Pete",
         "price": "1.5 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -122,7 +122,7 @@
         "id": 2,
         "img": "/img/auction_2.jpg",
         "title": "Tim Couch",
-        "owner": "John Deo",
+        "owner": "Tim Couch",
         "price": "2.7 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -131,7 +131,7 @@
         "id": 3,
         "img": "/img/auction_3.jpg",
         "title": "Kenyatta Wright",
-        "owner": "Arham",
+        "owner": "Kenyatta Wright",
         "price": "2.3 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -140,7 +140,7 @@
         "id": 4,
         "img": "/img/auction_4.jpg",
         "title": "Eric Davis",
-        "owner": "Yasmin",
+        "owner": "Eric Davis",
         "price": "1.8 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -149,7 +149,7 @@
         "id": 5,
         "img": "/img/auction_5.jpg",
         "title": "Don Carey Ill",
-        "owner": "Junaid",
+        "owner": "Don Carey Ill",
         "price": "1.7 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -158,7 +158,7 @@
         "id": 6,
         "img": "/img/auction_6.jpg",
         "title": "Donnell Thompson",
-        "owner": "ArtNox",
+        "owner": "Donnell Thompson",
         "price": "1.9 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -167,7 +167,7 @@
         "id": 7,
         "img": "/img/auction_7.jpg",
         "title": "Dick Anderson",
-        "owner": "Junaid",
+        "owner": "Dick Anderson",
         "price": "3.2 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -176,7 +176,7 @@
         "id": 8,
         "img": "/img/auction_8.jpg",
         "title": "Dennis Brown",
-        "owner": "Johnson",
+        "owner": "Dennis Brown",
         "price": "0.69 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -185,7 +185,7 @@
         "id": 9,
         "img": "/img/auction_9.jpg",
         "title": "Danny Noonan",
-        "owner": "Johnson",
+        "owner": "Danny Noonan",
         "price": "0.69 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -194,7 +194,7 @@
         "id": 10,
         "img": "/img/auction_10.jpg",
         "title": "Devin Wyman",
-        "owner": "Johnson",
+        "owner": "Devin Wyman",
         "price": "0.69 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -203,7 +203,7 @@
         "id": 11,
         "img": "/img/auction_11.jpg",
         "title": "Curt Warner",
-        "owner": "Johnson",
+        "owner": "Curt Warner",
         "price": "0.69 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
@@ -212,7 +212,7 @@
         "id": 12,
         "img": "/img/auction_12.jpg",
         "title": "Darrell Thompson",
-        "owner": "Johnson",
+        "owner": "Darrell Thompson",
         "price": "0.69 CSPR",
         "count": "1 of 1",
         "btnText": "Place a Bid"
